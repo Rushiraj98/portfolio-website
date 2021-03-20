@@ -4,7 +4,7 @@ My favorite code quote, "<span id="k">Work every waking hour!</span>". <!-- sjkf
 
 Hey There! I am Rushiraj Chavan, your friendly neighbourhood programmer.
 <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<p>I am currently pursuing a Backelor's in Computer Engineering from Savitribai Phule Pune University (SPPU)</p>
+<p>I am currently pursuing a Bachelor's in Computer Engineering from Savitribai Phule Pune University (SPPU)</p>
 <p>I have been introduced to the world of programming since 2013 that is 8 YEARS!! </p> 
 <p>My first programming language was C++ and obviously started with "helloworld.cpp"</p>
 <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
