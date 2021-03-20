@@ -16,7 +16,7 @@ Typer.speed=3;
 Typer.file="name.txt"; // add your own name here
 Typer.init();
  
-var timer = setInterval("t();", 30);
+var timer = setInterval("t();", 60);
 function t() {
 	Typer.addText({"keyCode": 123748});
 	
